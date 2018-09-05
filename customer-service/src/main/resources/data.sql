@@ -1,0 +1,2 @@
+insert into customer (email_id,cust_name,password,phone_no) values ('roger@gmail.com','Roger','roger','9876543210');
+insert into customer (email_id,cust_name,password,phone_no) values ('johnny@gmail.com','Johnny','johnny','9876543211');
